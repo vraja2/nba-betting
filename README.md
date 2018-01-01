@@ -4,7 +4,8 @@
 
 ### Training and testing sets
 
-Train on 2000-2016 data, evaluate on 2016-2017 season.
+Train on 2000-2016 data, evaluate on 2016-2017 season. In the future, would like to do K-fold
+cross-validation omitting 1 season at a time.
 
 ### Spread Simulation
 
