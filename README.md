@@ -47,3 +47,36 @@ Win Percent: 0.584112149533
 Loss Percent: 0.415887850467  
 Bets placed: 214  
 Bets not placed: 0
+
+#### Artificial Neural Network
+
+##### Features:
+
+away stats (19), home stats (19) = 38 total features
+
+*FGM, FGA, FG%, 3PM, 3PA, 3P%, FTM, FTA, FT%, OREB, DREB, REB, AST, STL, BLK, TOV, PF, PTS, PLUSMINUS*
+
+##### Results:
+**0 games in**  
+Win Percent: 0.511532125206  
+Loss Percent: 0.488467874794  
+Bets placed: 1214  
+Bets not placed: 0
+
+**400 games in**  
+Win Percent: 0.530712530713  
+Loss Percent: 0.469287469287  
+Bets placed: 814  
+Bets not placed: 0
+
+**800 games in**  
+Win Percent: 0.553140096618  
+Loss Percent: 0.446859903382  
+Bets placed: 414  
+Bets not placed: 0
+
+**1000 games in**  
+Win Percent: 0.579439252336  
+Loss Percent: 0.420560747664  
+Bets placed: 214  
+Bets not placed: 0  
