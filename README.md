@@ -79,4 +79,39 @@ Bets not placed: 0
 Win Percent: 0.579439252336  
 Loss Percent: 0.420560747664  
 Bets placed: 214  
+Bets not placed: 0
+
+#### Lasso Regression
+
+alpha = 0.1
+
+##### Features:
+
+away stats (19), home stats (19) = 38 total features
+
+*FGM, FGA, FG%, 3PM, 3PA, 3P%, FTM, FTA, FT%, OREB, DREB, REB, AST, STL, BLK, TOV, PF, PTS, PLUSMINUS*
+
+##### Results:
+**0 games in**  
+Win Percent: 0.518945634267  
+Loss Percent: 0.481054365733   
+Bets placed: 1214   
+Bets not placed: 0
+
+**400 games in**  
+Win Percent: 0.534398034398  
+Loss Percent: 0.465601965602  
+Bets placed: 814  
 Bets not placed: 0  
+
+**800 games in**  
+Win Percent: 0.562801932367  
+Loss Percent: 0.437198067633  
+Bets placed: 414  
+Bets not placed: 0  
+
+**1000 games in**  
+Win Percent: 0.593457943925  
+Loss Percent: 0.406542056075  
+Bets placed: 214  
+Bets not placed: 0
