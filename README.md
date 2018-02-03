@@ -48,6 +48,36 @@ Loss Percent: 0.415887850467
 Bets placed: 214  
 Bets not placed: 0
 
+away stats (34), home stats (34) = 68 total features
+
+*FGM, FGA, FG%, 3PM, 3PA, 3P%, FTM, FTA, FT%, OREB, DREB, REB, AST, STL, BLK, TOV, PF, PTS, PLUSMINUS,
+OFF_RATING, DEF_RATING, NET_RATING, AST_PCT, AST_TOV, AST_RATIO, OREB_PCT, DREB_PCT, REB_PCT, TM_TOV_PCT,
+EFG_PCT, TS_PCT, USG_PCT, PACE, PIE*
+
+**0 games in**  
+Win Percent: 0.504942339374  
+Loss Percent: 0.495057660626  
+Bets placed: 1214  
+Bets not placed: 0
+
+**400 games in**  
+Win Percent: 0.518427518428  
+Loss Percent: 0.481572481572  
+Bets placed: 814  
+Bets not placed: 0  
+
+**800 games in**  
+Win Percent: 0.538647342995  
+Loss Percent: 0.461352657005  
+Bets placed: 414  
+Bets not placed: 0
+
+**1000 games in**  
+Win Percent: 0.570093457944  
+Loss Percent: 0.429906542056  
+Bets placed: 214  
+Bets not placed: 0
+
 #### Artificial Neural Network
 
 ##### Features:
@@ -78,6 +108,36 @@ Bets not placed: 0
 **1000 games in**  
 Win Percent: 0.579439252336  
 Loss Percent: 0.420560747664  
+Bets placed: 214  
+Bets not placed: 0
+
+away stats (34), home stats (34) = 68 total features
+
+*FGM, FGA, FG%, 3PM, 3PA, 3P%, FTM, FTA, FT%, OREB, DREB, REB, AST, STL, BLK, TOV, PF, PTS, PLUSMINUS,
+OFF_RATING, DEF_RATING, NET_RATING, AST_PCT, AST_TOV, AST_RATIO, OREB_PCT, DREB_PCT, REB_PCT, TM_TOV_PCT,
+EFG_PCT, TS_PCT, USG_PCT, PACE, PIE*
+
+**0 games in**  
+Win Percent: 0.519769357496  
+Loss Percent: 0.480230642504  
+Bets placed: 1214  
+Bets not placed: 0
+
+**400 games in**  
+Win Percent: 0.531941031941  
+Loss Percent: 0.468058968059  
+Bets placed: 814  
+Bets not placed: 0
+
+**800 games in**  
+Win Percent: 0.550724637681  
+Loss Percent: 0.449275362319  
+Bets placed: 414  
+Bets not placed: 0
+
+**1000 games in**  
+Win Percent: 0.551401869159  
+Loss Percent: 0.448598130841  
 Bets placed: 214  
 Bets not placed: 0
 
@@ -113,5 +173,35 @@ Bets not placed: 0
 **1000 games in**  
 Win Percent: 0.593457943925  
 Loss Percent: 0.406542056075  
+Bets placed: 214  
+Bets not placed: 0
+
+away stats (34), home stats (34) = 68 total features
+
+*FGM, FGA, FG%, 3PM, 3PA, 3P%, FTM, FTA, FT%, OREB, DREB, REB, AST, STL, BLK, TOV, PF, PTS, PLUSMINUS,
+OFF_RATING, DEF_RATING, NET_RATING, AST_PCT, AST_TOV, AST_RATIO, OREB_PCT, DREB_PCT, REB_PCT, TM_TOV_PCT,
+EFG_PCT, TS_PCT, USG_PCT, PACE, PIE*
+
+**0 games in**  
+Win Percent: 0.523064250412  
+Loss Percent: 0.476935749588  
+Bets placed: 1214  
+Bets not placed: 0
+
+**400 games in**  
+Win Percent: 0.539312039312  
+Loss Percent: 0.460687960688  
+Bets placed: 814  
+Bets not placed: 0  
+
+**800 games in**  
+Win Percent: 0.557971014493  
+Loss Percent: 0.442028985507  
+Bets placed: 414  
+Bets not placed: 0  
+
+**1000 games in**  
+Win Percent: 0.588785046729  
+Loss Percent: 0.411214953271  
 Bets placed: 214  
 Bets not placed: 0
