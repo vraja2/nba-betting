@@ -6,3 +6,4 @@
 - [ ] Scrape 2017-18 data
 - [ ] Exponential decay (weight recent games more heavily)
 - [ ] Research feature selection methods
+- [ ] Figure out better way to organize results
